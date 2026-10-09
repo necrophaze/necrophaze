@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://rentry.co/planet13dragqueen">RENTRY</a>　
   ㅤ￴<a href="https://pronouns.cc/@planet13dragqueen">PRONOUNS</a>￴￴　
-　<a href="https://planet13dragqueen/">ATABOOK</a>￴
+　<a href="https://planet13dragqueen.atabook.org/">ATABOOK</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
