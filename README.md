@@ -1,5 +1,5 @@
 <p align="center">
-<img width="244px" height="145px" src="https://i.pinimg.com/originals/21/c4/b6/21c4b6965f728fa83a9378b4bb20f464.gif">
+<img width="244px" height="145px" src="https://file.garden/aTN1R0deYkPxCX0D/necroweddy.jpg">
 <p align="center">
 <div align="center">
   <a href="https://rentry.co/necrophaze">RENTRY</a>　
